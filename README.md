@@ -2,9 +2,14 @@
 
 <h2>👨‍💻 My Blue Team Projects </h2>
 
-- <b>---</b>
-  - [---)
-- <b>---</b>
+## Walkthroughs & Solutions
+
+If you hit the same alert in LetsDefend, I wrote a step‑by‑step walkthrough on Medium that explains how I investigated and resolved the **SOC127 - SQL injection detected** alert.
+
+➡️ **Read it here:** [SOC127 — SQL injection detected (LetsDefend) — solution & walkthrough](https://medium.com/@ismaelggm/soc127-sql-injection-detected-letsdefend-solution-d37f7eed52e9)
+
+[![Walkthrough on Medium](https://img.shields.io/badge/Walkthrough-Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ismaelggm/soc127-sql-injection-detected-letsdefend-solution-d37f7eed52e9)
+
   ---
 
 
