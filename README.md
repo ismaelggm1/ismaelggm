@@ -40,7 +40,9 @@ If you hit the same alert in LetsDefend, I wrote a step‑by‑step walkthrough 
 
 
 <h2> 🤳 Connect with me:</h2>
-Email: [ismaelgatongg@gmail.com](ismaelgatongg@gmail.com])
+
+Email: ismaelgatongg@gmail.com
+
 [![Walkthrough on Medium](https://img.shields.io/badge/Walkthrough-Medium-12100E?logo=medium&logoColor=white)]((https://medium.com/@ismaelggm))
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ismaelggm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-gaton-32651a238/)
