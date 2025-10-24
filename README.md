@@ -7,43 +7,18 @@ I hold certifications such as Google Cybersecurity Professional and SOC Analyst 
 
 I’m passionate about continuous learning, hands-on labs, and sharing knowledge with the community.
 ## 🛠️ Skills
-SIEM & Monitoring
 
-Splunk, Elastic Stack (ELK), Microsoft Sentinel
+**SIEM & Monitoring:**  
+Splunk ![Splunk](https://img.shields.io/badge/Splunk-Expert-blue), Elastic Stack ![Elastic](https://img.shields.io/badge/Elastic-Intermediate-orange), Microsoft Sentinel ![Sentinel](https://img.shields.io/badge/Sentinel-Intermediate-red), EDRs ![EDR](https://img.shields.io/badge/EDR-Familiar-green)
 
-EDR platforms (CrowdStrike, Carbon Black, Defender ATP)
+**Cybersecurity & Threat Hunting:**  
+SOC L1 ![SOC Analyst](https://img.shields.io/badge/SOC-L1-blueviolet), Incident Detection & Response, Threat Hunting, PowerShell ![PowerShell](https://img.shields.io/badge/PowerShell-Familiar-blue)
 
-Log analysis, event correlation, alert triage
+**Networking & Systems:**  
+TCP/IP, DNS, HTTP(S), Windows/Linux basics
 
-Cybersecurity & Threat Hunting
-
-SOC operations (L1)
-
-Incident detection and response (IDR)
-
-Threat hunting using logs, alerts, and telemetry
-
-PowerShell & scripting for automation
-
-Networking & Systems
-
-TCP/IP, DNS, HTTP(S), SMB, Windows/Linux basics
-
-System and network log analysis
-
-Soft Skills
-
-Analytical thinking & problem-solving
-
-Communication & report writing
-
-Attention to detail & continuous learning
-
-Hands-on & Labs
-
-TryHackMe, Hack The Box, lab environments
-
-Practical experience with malware analysis, phishing investigations, and SIEM hunts
+**Soft Skills:**  
+Analytical Thinking, Communication, Attention to Detail
 
 
 <h2>👨‍💻 My Blue Team Projects </h2>
