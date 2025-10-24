@@ -2,12 +2,13 @@
 
 <h2>👨‍💻 My Blue Team Projects </h2>
 
-
+<h2>1</h2>
 **SOC analyst investigation and artifacts** for the TryHackMe room *Hunting with Elastic* — "Payment Collectors" scenario.
 
 ➡️ **Read it here [Hunt Me I: Payment Collectors](https://medium.com/@ismaelggm/hunt-me-i-payment-collectors-walkthrough-2e2a06650ce6) • This repo contains a detailled steps of a SOC analyst investigation, screenshots, KQL queries, IOCs, and detection suggestions.
 
 
+<h2>2</h2>
 If you hit the same alert in LetsDefend, I wrote a step‑by‑step walkthrough on Medium that explains how I investigated and resolved the **SOC127 - SQL injection detected** alert.
 
 ➡️ **Read it here:** [SOC127 — SQL injection detected (LetsDefend) — solution & walkthrough](https://medium.com/@ismaelggm/soc127-sql-injection-detected-letsdefend-solution-d37f7eed52e9)
