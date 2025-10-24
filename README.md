@@ -1,9 +1,49 @@
 <h1>Hi, I'm Ismael! <br/><a href="(https://github.com/ismaelggm1/ismaelggm)">Data Analyst</a>,   Future Cybersecurity SOC Analyst</h1>
 
 ## 👨‍💻 About Me
+I’m a cybersecurity enthusiast with hands-on experience in threat hunting, SOC analysis, and incident response. I’ve completed practical labs on TryHackMe and other platforms, giving me real-world exposure to tools and techniques used in security operations.
 
+I hold certifications such as Google Cybersecurity Professional and SOC Analyst L1, and I’m currently preparing to take the CompTIA Security+ exam. My goal is to grow as a SOC Analyst, applying my skills to detect, analyze, and respond to threats effectively.
+
+I’m passionate about continuous learning, hands-on labs, and sharing knowledge with the community.
 ## 🛠️ Skills
+SIEM & Monitoring
 
+Splunk, Elastic Stack (ELK), Microsoft Sentinel
+
+EDR platforms (CrowdStrike, Carbon Black, Defender ATP)
+
+Log analysis, event correlation, alert triage
+
+Cybersecurity & Threat Hunting
+
+SOC operations (L1)
+
+Incident detection and response (IDR)
+
+Threat hunting using logs, alerts, and telemetry
+
+PowerShell & scripting for automation
+
+Networking & Systems
+
+TCP/IP, DNS, HTTP(S), SMB, Windows/Linux basics
+
+System and network log analysis
+
+Soft Skills
+
+Analytical thinking & problem-solving
+
+Communication & report writing
+
+Attention to detail & continuous learning
+
+Hands-on & Labs
+
+TryHackMe, Hack The Box, lab environments
+
+Practical experience with malware analysis, phishing investigations, and SIEM hunts
 
 
 <h2>👨‍💻 My Blue Team Projects </h2>
