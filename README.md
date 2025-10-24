@@ -4,8 +4,9 @@
 
 <h2>1</h2>
 SOC analyst investigation and artifacts** for the TryHackMe room *Hunting with Elastic* — "Payment Collectors" scenario.
+• This repo contains a detailled steps of a SOC analyst investigation, screenshots, KQL queries, IOCs, and detection suggestions.
 
-➡️ Read it here [Hunt Me I: Payment Collectors](https://medium.com/@ismaelggm/hunt-me-i-payment-collectors-walkthrough-2e2a06650ce6) • This repo contains a detailled steps of a SOC analyst investigation, screenshots, KQL queries, IOCs, and detection suggestions.
+➡️ Read it here [Hunt Me I: Payment Collectors](https://medium.com/@ismaelggm/hunt-me-i-payment-collectors-walkthrough-2e2a06650ce6) 
 
 
 <h2>2</h2>
