@@ -42,9 +42,10 @@ Analytical Thinking, Communication, Attention to Detail
 
 **Tools & Tech:** TryHackMe, Elastic Stack (Kibana), Windows forensic artifacts, Kali Linux, CyberChef, YARA
 
-## 🧠 Project 3: PhishStrike Lab — Threat Intel and Email Analysis
+## 🧠 Project 2: PhishStrike Lab — Threat Intel and Email Analysis
 
 ➡️ Read it here [PhishStrike Lab](https://medium.com/@ismaelggm/phishstrike-lab-7a6ae090474c)  
+
 **Description:** This project focuses on analyzing phishing email headers and leveraging threat intelligence tools to identify Indicators of Compromise (IOCs). The investigation uncovered malware distribution, persistence mechanisms, and command-and-control (C2) communications involving CoinMiner, BitRAT, and AsyncRAT.
 
 **Key highlights:**
@@ -56,12 +57,25 @@ Analytical Thinking, Communication, Attention to Detail
 
 **Technologies & Tools:** Kali Linux, VirusTotal, URLhaus, MxToolBox, CyberChef, MITRE ATT&CK
 
-If you hit the same alert in LetsDefend, I wrote a step‑by‑step walkthrough on Medium that explains how I investigated and resolved the **SOC127 - SQL injection detected** alert.
+## 🐾 Project 3: SOC127 — SQL Injection Detected (LetsDefend)
 
 ➡️ **Read it here:** [SOC127 — SQL injection detected (LetsDefend) — solution & walkthrough](https://medium.com/@ismaelggm/soc127-sql-injection-detected-letsdefend-solution-d37f7eed52e9)
 
+**Description:** A practical SOC investigation of the “SQL Injection Detected” alert in LetsDefend. This project provides a full step-by-step analysis of how I handled the alert — from triaging the initial detection to confirming exploitation attempts and applying remediation.
 
-  ---
+**What I delivered:**
+- Detailed alert triage workflow and investigation timeline  
+- Log and packet analysis to confirm SQLi activity  
+- Identification of attacker IPs, payloads, and targeted parameters  
+- Final resolution steps and remediation recommendations  
+
+**Key highlights:**
+- Hands-on use of LetsDefend’s SOC platform for alert validation and escalation  
+- Correlated IDS alerts with HTTP request logs to confirm SQL injection attempts  
+- Demonstrated how to classify and close the alert based on verified evidence  
+
+**Tools & Tech:** LetsDefend SOC platform, Wireshark, ELK Stack, SQLMap, CyberChef, MITRE ATT&CK  
+
 
 
 <h2> 🤳 Connect with me:</h2>
