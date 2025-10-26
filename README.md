@@ -23,16 +23,16 @@ Analytical Thinking, Communication, Attention to Detail
 
 <h2>👨‍💻 My Blue Team Projects </h2>
 
-<h2>1</h2>
+
 SOC analyst investigation and artifacts for the TryHackMe room *Hunting with Elastic* — "Payment Collectors" scenario.
 • This repo contains a detailled steps of a SOC analyst investigation, screenshots, KQL queries, IOCs, and detection suggestions.
 
 ➡️ Read it here [Hunt Me I: Payment Collectors](https://medium.com/@ismaelggm/hunt-me-i-payment-collectors-walkthrough-2e2a06650ce6) 
 
-<h2>2</h2>
+
 ## 🧠 Project 3: PhishStrike Lab — Threat Intel and Email Analysis
 
-**Medium post:** [PhishStrike Lab Walkthrough](https://medium.com/@ismaelggm/phishstrike-lab-7a6ae090474c)  
+**Medium post:** [PhishStrike Lab](https://medium.com/@ismaelggm/phishstrike-lab-7a6ae090474c)  
 **Description:** This project focuses on analyzing phishing email headers and leveraging threat intelligence tools to identify Indicators of Compromise (IOCs). The investigation uncovered malware distribution, persistence mechanisms, and command-and-control (C2) communications involving CoinMiner, BitRAT, and AsyncRAT.
 
 **Key highlights:**
@@ -43,7 +43,7 @@ SOC analyst investigation and artifacts for the TryHackMe room *Hunting with Ela
 - Created actionable IOCs and remediation steps
 
 **Technologies & Tools:** Kali Linux, VirusTotal, URLhaus, MxToolBox, CyberChef, MITRE ATT&CK
-<h2>3</h2>
+
 If you hit the same alert in LetsDefend, I wrote a step‑by‑step walkthrough on Medium that explains how I investigated and resolved the **SOC127 - SQL injection detected** alert.
 
 ➡️ **Read it here:** [SOC127 — SQL injection detected (LetsDefend) — solution & walkthrough](https://medium.com/@ismaelggm/soc127-sql-injection-detected-letsdefend-solution-d37f7eed52e9)
