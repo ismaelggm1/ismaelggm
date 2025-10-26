@@ -23,7 +23,7 @@ Analytical Thinking, Communication, Attention to Detail
 
 <h2>👨‍💻 My Blue Team Projects </h2>
 
-##🧩 Project 1: Hunt Me I — Payment Collectors (TryHackMe SOC Investigation)
+## 🧩 Project 1: Hunt Me I — Payment Collectors (TryHackMe SOC Investigation)
 
 ➡️ Read it here [Hunt Me I: Payment Collectors](https://medium.com/@ismaelggm/hunt-me-i-payment-collectors-walkthrough-2e2a06650ce6) 
   
@@ -44,7 +44,7 @@ Analytical Thinking, Communication, Attention to Detail
 
 ## 🧠 Project 3: PhishStrike Lab — Threat Intel and Email Analysis
 
-**Medium post:** [PhishStrike Lab](https://medium.com/@ismaelggm/phishstrike-lab-7a6ae090474c)  
+➡️ Read it here [PhishStrike Lab](https://medium.com/@ismaelggm/phishstrike-lab-7a6ae090474c)  
 **Description:** This project focuses on analyzing phishing email headers and leveraging threat intelligence tools to identify Indicators of Compromise (IOCs). The investigation uncovered malware distribution, persistence mechanisms, and command-and-control (C2) communications involving CoinMiner, BitRAT, and AsyncRAT.
 
 **Key highlights:**
