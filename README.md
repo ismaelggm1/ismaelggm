@@ -33,7 +33,7 @@ Analytical Thinking, Communication, Attention to Detail
 - Step-by-step SOC investigation notes and screenshots from Kali/Elastic/Windows VMs
   
 - Comprehensive list of IOCs (IPs, domains, file hashes) discovered during the exercise
-- 
+  
 - KQL queries used to hunt for suspicious PowerShell, process creation, and network behavior in Elastic
   
 - Detection guidance and remediation suggestions for SOC engineers
@@ -68,18 +68,18 @@ Analytical Thinking, Communication, Attention to Detail
 
 **Description:** Walkthrough of a Wireshark analysis for the TryHackMe Carnage room. This repository page summarizes the SOC-style investigation, IOCs, hunting queries, and detection recommendations derived from the pcap analysis.
 
-**What I delivered:**
+What I delivered:
 
--Step-by-step Wireshark / SOC investigation notes and screenshots
--Structured IOCs (domains, IPs, filenames, HTTP headers) discovered during the exercise
--Example hunting queries (Wireshark/tshark, Splunk/SIEM, Suricata signature idea)
--Detection guidance and remediation suggestions for SOC engineers
+○ Step-by-step Wireshark / SOC investigation notes and screenshots
+○ Structured IOCs (domains, IPs, filenames, HTTP headers) discovered during the exercise
+○ Example hunting queries (Wireshark/tshark, Splunk/SIEM, Suricata signature idea)
+○ Detection guidance and remediation suggestions for SOC engineers
 
 **Key highlights:**
 
--Reconstructed attacker TTPs and mapped them to MITRE ATT&CK techniques
--Example hunts and KQL/Splunk queries to accelerate analyst response
--Evidence-backed remediation playbook for containment and eradication
+○ Reconstructed attacker TTPs and mapped them to MITRE ATT&CK techniques
+○ Example hunts and KQL/Splunk queries to accelerate analyst response
+○ Evidence-backed remediation playbook for containment and eradication
 
 **Tools & Tech:** : TryHackMe, Wireshark, Virtual Machine, VirusTotal, , Windows forensic artifacts, CyberChef
 
