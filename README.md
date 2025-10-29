@@ -30,14 +30,19 @@ Analytical Thinking, Communication, Attention to Detail
 **Description:** Detailed SOC analyst walkthrough of the "Payment Collectors" scenario. This repo documents each step of the investigation from email and host triage to threat hunting with Elastic Stack, showcasing artifacts, screenshots, KQL queries, IOCs, and detection recommendations.
 
 **What I delivered:**
-- Step-by-step SOC investigation notes and screenshots from Kali/Elastic/Windows VMs  
-- Comprehensive list of IOCs (IPs, domains, file hashes) discovered during the exercise  
-- KQL queries used to hunt for suspicious PowerShell, process creation, and network behavior in Elastic  
+- Step-by-step SOC investigation notes and screenshots from Kali/Elastic/Windows VMs
+  
+- Comprehensive list of IOCs (IPs, domains, file hashes) discovered during the exercise
+- 
+- KQL queries used to hunt for suspicious PowerShell, process creation, and network behavior in Elastic
+  
 - Detection guidance and remediation suggestions for SOC engineers
 
 **Key highlights:**
 - Recreated attacker TTPs and mapped them to MITRE ATT&CK techniques
+  
 - Example KQL+Dashboards to accelerate analyst response
+  
 - Evidence-backed remediation playbook for containment and eradication
 
 **Tools & Tech:** TryHackMe, Elastic Stack (Kibana), Windows forensic artifacts, Kali Linux, CyberChef, YARA
