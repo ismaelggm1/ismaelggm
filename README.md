@@ -57,7 +57,29 @@ Analytical Thinking, Communication, Attention to Detail
 
 **Technologies & Tools:** Kali Linux, VirusTotal, URLhaus, MxToolBox, CyberChef, MITRE ATT&CK
 
-## 🐾 Project 3: SOC127 — SQL Injection Detected (LetsDefend)
+## 🕵️ Project 3: Carnage - Analyzing malicious network with Wireshark
+
+➡️ **Read it here:** [Carnage - Analyzing malicious network with Wireshark](https://medium.com/@ismaelggm/carnage-0564a12735c7)
+
+**Description:** Walkthrough of a Wireshark analysis for the TryHackMe Carnage room. This repository page summarizes the SOC-style investigation, IOCs, hunting queries, and detection recommendations derived from the pcap analysis.
+
+**What I delivered:**
+
+-Step-by-step Wireshark / SOC investigation notes and screenshots
+-Structured IOCs (domains, IPs, filenames, HTTP headers) discovered during the exercise
+-Example hunting queries (Wireshark/tshark, Splunk/SIEM, Suricata signature idea)
+-Detection guidance and remediation suggestions for SOC engineers
+
+**Key highlights:**
+
+-Reconstructed attacker TTPs and mapped them to MITRE ATT&CK techniques
+-Example hunts and KQL/Splunk queries to accelerate analyst response
+-Evidence-backed remediation playbook for containment and eradication
+
+**Tools & Tech:** : TryHackMe, Wireshark, Virtual Machine, VirusTotal, , Windows forensic artifacts, CyberChef
+
+
+## 🐾 Project 4: SOC127 — SQL Injection Detected (LetsDefend)
 
 ➡️ **Read it here:** [SOC127 — SQL injection detected (LetsDefend) — solution & walkthrough](https://medium.com/@ismaelggm/soc127-sql-injection-detected-letsdefend-solution-d37f7eed52e9)
 
