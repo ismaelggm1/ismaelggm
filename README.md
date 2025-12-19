@@ -23,7 +23,7 @@ Analytical Thinking, Communication, Attention to Detail
 
 <h2>👨‍💻 My Blue Team Projects </h2>
 
-##🕵️ Project 1: Investigating Windows 3.x Malware P
+## 🕵️ Project 1: Investigating Windows 3.x Malware P
 
 ➡️ Read the full write-up: [Investigating Windows 3.x](https://medium.com/@ismaelggm/investigating-windows-3-x-0f210a3aaaa1)
 
