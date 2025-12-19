@@ -1,9 +1,9 @@
-<h1>Hi, I'm Ismael! <br/><a href="(https://github.com/ismaelggm1/ismaelggm)">Data Analyst</a>,   Future Cybersecurity SOC Analyst</h1>
+<h1>Hi, I'm Ismael! <br/><a href="(https://github.com/ismaelggm1/ismaelggm)">Risk & Compliance Analyst</a>, Cybersecurity Enthusiast</h1>
 
 ## 👨‍💻 About Me
 I’m a cybersecurity enthusiast with hands-on experience in threat hunting, SOC analysis, and incident response. I’ve completed practical labs on TryHackMe and other platforms, giving me real-world exposure to tools and techniques used in security operations.
 
-I hold certifications such as Google Cybersecurity Professional and SOC Analyst L1, and I’m currently preparing to take the CompTIA Security+ exam. My goal is to grow as a SOC Analyst, applying my skills to detect, analyze, and respond to threats effectively.
+I hold certifications such as Comptia Security +, Google Cybersecurity Professional and SOC Analyst L2. My goal is to keep growing in Cybersecurity as a SOC Analyst, applying my skills to detect, analyze, and respond to threats effectively.
 
 I’m passionate about continuous learning, hands-on labs, and sharing knowledge with the community.
 ## 🛠️ Skills
@@ -23,7 +23,32 @@ Analytical Thinking, Communication, Attention to Detail
 
 <h2>👨‍💻 My Blue Team Projects </h2>
 
-## 🧩 Project 1: Hunt Me I — Payment Collectors (TryHackMe SOC Investigation)
+##🕵️ Project 1: Investigating Windows 3.x Malware P
+
+➡️ Read the full write-up: [Investigating Windows 3.x](https://medium.com/@ismaelggm/investigating-windows-3-x-0f210a3aaaa1)
+Investigating Windows 3.x
+
+**Description:** 
+
+This project documents a hands-on malware investigation on a Windows system, focusing on identifying persistence mechanisms, suspicious registry activity, and encoded payloads. The analysis walks through the investigative process step by step, highlighting how common attacker techniques can hide in plain sight using legitimate Windows features.
+
+The goal of this project was to practice SOC-style host triage, registry analysis, and threat-hunting methodology while clearly documenting findings in a way that other analysts can follow and reproduce.
+
+**What I delivered:**
+
+Performed startup persistence analysis using Autoruns
+
+Identified suspicious auto-start entries tied to registry run keys
+
+Traced abnormal entries back to HKCU registry paths
+
+Analyzed encoded registry values that appeared obfuscated (base64-like data)
+
+Assessed the findings from a defender’s perspective to determine malicious intent
+## 🧰 Tools Used
+- Sysinternals Autoruns — Windows Registry Editor (regedit) - Base64 Analysis- Manual Threat Hunting Techniques- Sysmon
+
+## 🧩 Project 2: Hunt Me I — Payment Collectors (TryHackMe SOC Investigation)
 
 ➡️ Read it here [Hunt Me I: Payment Collectors](https://medium.com/@ismaelggm/hunt-me-i-payment-collectors-walkthrough-2e2a06650ce6) 
   
@@ -47,7 +72,7 @@ Analytical Thinking, Communication, Attention to Detail
 
 **Tools & Tech:** TryHackMe, Elastic Stack (Kibana), Windows forensic artifacts, Kali Linux, CyberChef, YARA
 
-## 🧠 Project 2: PhishStrike Lab — Threat Intel and Email Analysis
+## 🧠 Project 3: PhishStrike Lab — Threat Intel and Email Analysis
 
 ➡️ Read it here [PhishStrike Lab](https://medium.com/@ismaelggm/phishstrike-lab-7a6ae090474c)  
 
@@ -62,7 +87,7 @@ Analytical Thinking, Communication, Attention to Detail
 
 **Technologies & Tools:** Kali Linux, VirusTotal, URLhaus, MxToolBox, CyberChef, MITRE ATT&CK
 
-## 🕵️ Project 3: Carnage - Analyzing malicious network with Wireshark
+## 🕵️ Project 4: Carnage - Analyzing malicious network with Wireshark
 
 ➡️ **Read it here:** [Carnage - Analyzing malicious network with Wireshark](https://medium.com/@ismaelggm/carnage-0564a12735c7)
 
@@ -90,7 +115,7 @@ Analytical Thinking, Communication, Attention to Detail
 **Tools & Tech:** : TryHackMe, Wireshark, Virtual Machine, VirusTotal, , Windows forensic artifacts, CyberChef
 
 
-## 🐾 Project 4: SOC127 — SQL Injection Detected (LetsDefend)
+## 🐾 Project 5: SOC127 — SQL Injection Detected (LetsDefend)
 
 ➡️ **Read it here:** [SOC127 — SQL injection detected (LetsDefend) — solution & walkthrough](https://medium.com/@ismaelggm/soc127-sql-injection-detected-letsdefend-solution-d37f7eed52e9)
 
