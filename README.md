@@ -15,7 +15,7 @@ Splunk ![Splunk](https://img.shields.io/badge/Splunk-Expert-blue), Elastic Stack
 SOC L1 ![SOC Analyst](https://img.shields.io/badge/SOC-L1-blueviolet), Incident Detection & Response, Threat Hunting, PowerShell ![PowerShell](https://img.shields.io/badge/PowerShell-Familiar-blue)
 
 **Networking & Systems:**  
-TCP/IP, DNS, HTTP(S), Windows/Linux basics
+TCP/IP, DNS, HTTP(S), Windows/Linux, Cisco
 
 **Soft Skills:**  
 Analytical Thinking, Communication, Attention to Detail
