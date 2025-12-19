@@ -26,7 +26,6 @@ Analytical Thinking, Communication, Attention to Detail
 ##🕵️ Project 1: Investigating Windows 3.x Malware P
 
 ➡️ Read the full write-up: [Investigating Windows 3.x](https://medium.com/@ismaelggm/investigating-windows-3-x-0f210a3aaaa1)
-Investigating Windows 3.x
 
 **Description:** 
 
