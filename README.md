@@ -1,11 +1,33 @@
 <h1>Hi, I'm Ismael! <br/><a href="(https://github.com/ismaelggm1/ismaelggm)">Risk & Compliance Analyst</a>, Cybersecurity Enthusiast</h1>
 
 ## 👨‍💻 About Me
-I’m a cybersecurity enthusiast with hands-on experience in threat hunting, SOC analysis, and incident response. I’ve completed practical labs on TryHackMe and other platforms, giving me real-world exposure to tools and techniques used in security operations.
 
-I hold certifications such as Comptia Security +, Google Cybersecurity Professional and SOC Analyst L2. My goal is to keep growing in Cybersecurity as a SOC Analyst, applying my skills to detect, analyze, and respond to threats effectively.
+I’m a cybersecurity practitioner who genuinely enjoys digging into logs, tracing attacker behavior, and figuring out the “why” behind security events.
 
-I’m passionate about continuous learning, hands-on labs, and sharing knowledge with the community.
+My main focus is **Threat Intelligence and Incident Response**. I’m especially interested in understanding adversary tactics, mapping activity to frameworks like MITRE ATT&CK, and turning raw alerts into real investigative insights. I don’t just want to close tickets — I want to understand the story behind the incident.
+
+I’ve built hands-on experience through practical labs (TryHackMe and other platforms), simulating real-world attacks, investigating alerts, analyzing logs, and responding to incidents in SOC-style environments. I’m comfortable working with common blue-team tools and thinking from both defender and attacker perspectives.
+
+### 🎯 What Drives Me
+
+- Investigating security alerts beyond surface-level indicators  
+- Threat hunting and identifying abnormal patterns in noisy environments  
+- Incident response workflows: detection → analysis → containment → lessons learned  
+- Continuous improvement — technically and analytically  
+
+### 📜 Certifications
+
+- CompTIA Security+
+- Certified Ethical Hacker (CEH)
+- Google Cybersecurity Professional
+- SOC Analyst L2
+- SC-200
+- GIAC threat intelligence ( In progress ) 
+
+I’m actively growing toward deeper expertise in **Threat Intelligence, Detection Engineering, and Incident Response**, and I’m always building, testing, and refining my skills through hands-on practice.
+
+---
+
 ## 🛠️ Skills
 
 **SIEM & Monitoring:**  
