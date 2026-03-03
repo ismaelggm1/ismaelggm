@@ -6,8 +6,11 @@ I’m a cybersecurity practitioner who genuinely enjoys digging into logs, traci
 
 My main focus is **Threat Intelligence and Incident Response**. I’m especially interested in understanding adversary tactics, mapping activity to frameworks like MITRE ATT&CK, and turning raw alerts into real investigative insights. I don’t just want to close tickets — I want to understand the story behind the incident.
 
-I’ve built hands-on experience through practical labs (TryHackMe and other platforms), simulating real-world attacks, investigating alerts, analyzing logs, and responding to incidents in SOC-style environments. I’m comfortable working with common blue-team tools and thinking from both defender and attacker perspectives.
+I’ve built hands-on experience not only through practical labs (TryHackMe and other platforms), but also through several years of working in real-world security operations environments. In my professional roles, I’ve investigated live security alerts, analyzed logs across multiple systems, handled incident response cases, and worked within structured SOC workflows.
 
+The labs helped me sharpen my offensive and defensive mindset — but my day-to-day experience in production environments is where I developed discipline, prioritization skills, and the ability to respond effectively under pressure.
+
+I’m comfortable working with common blue-team tools, correlating data across sources, and thinking from both defender and attacker perspectives.
 ### 🎯 What Drives Me
 
 - Investigating security alerts beyond surface-level indicators  
