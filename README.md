@@ -48,7 +48,35 @@ Analytical Thinking, Communication, Attention to Detail
 
 <h2>👨‍💻 My Blue Team Projects </h2>
 
-## 🕵️ Project 1: Investigating Windows 3.x Malware P
+## 🐰 Project 1: Bad Rabbit Ransomware — Attack Chain Reconstruction
+
+➡️ Read the full walkthrough: [Bad Rabbit Ransomware Analysis](https://medium.com/@ismaelggm/67b4232133de)
+
+**Description:**
+
+This project reconstructs the attack chain of the Bad Rabbit ransomware by analyzing how the malware spreads, establishes persistence, and ultimately compromises the system. The investigation focuses on phishing delivery techniques, execution behavior, persistence mechanisms, and the destructive modification of the Master Boot Record (MBR).
+
+Using dynamic malware analysis and threat intelligence methodology, the project maps the observed behaviors to MITRE ATT&CK techniques to better understand the adversary’s tactics, techniques, and procedures (TTPs).
+
+The goal of this project was to simulate a real-world threat intelligence investigation and document how a ransomware attack progresses from initial infection to system takeover.
+
+**What I delivered:**
+
+- Reconstructed the Bad Rabbit attack chain from initial infection to system impact
+- Analyzed phishing-based delivery and execution behavior
+- Identified persistence mechanisms used by the malware
+- Investigated MBR modification used to lock the system and display the ransom note
+- Mapped attacker behavior to relevant MITRE ATT&CK techniques
+- Documented the analysis in a reproducible step-by-step threat intelligence walkthrough
+
+## 🧰 Tools Used
+- REMnux Malware Analysis Environment  
+- Dynamic Malware Analysis Techniques  
+- MITRE ATT&CK Framework  
+- Windows System Monitoring  
+- Threat Intelligence Methodology
+
+## 🕵️ Project 2: Investigating Windows 3.x Malware P
 
 ➡️ Read the full write-up: [Investigating Windows 3.x](https://medium.com/@ismaelggm/investigating-windows-3-x-0f210a3aaaa1)
 
@@ -72,7 +100,7 @@ Assessed the findings from a defender’s perspective to determine malicious int
 ## 🧰 Tools Used
 - Sysinternals Autoruns — Windows Registry Editor (regedit) - Base64 Analysis- Manual Threat Hunting Techniques- Sysmon
 
-## 🧩 Project 2: Hunt Me I — Payment Collectors (TryHackMe SOC Investigation)
+## 🧩 Project 3: Hunt Me I — Payment Collectors (TryHackMe SOC Investigation)
 
 ➡️ Read it here [Hunt Me I: Payment Collectors](https://medium.com/@ismaelggm/hunt-me-i-payment-collectors-walkthrough-2e2a06650ce6) 
   
@@ -96,7 +124,7 @@ Assessed the findings from a defender’s perspective to determine malicious int
 
 **Tools & Tech:** TryHackMe, Elastic Stack (Kibana), Windows forensic artifacts, Kali Linux, CyberChef, YARA
 
-## 🧠 Project 3: PhishStrike Lab — Threat Intel and Email Analysis
+## 🧠 Project 4: PhishStrike Lab — Threat Intel and Email Analysis
 
 ➡️ Read it here [PhishStrike Lab](https://medium.com/@ismaelggm/phishstrike-lab-7a6ae090474c)  
 
@@ -111,7 +139,7 @@ Assessed the findings from a defender’s perspective to determine malicious int
 
 **Technologies & Tools:** Kali Linux, VirusTotal, URLhaus, MxToolBox, CyberChef, MITRE ATT&CK
 
-## 🕵️ Project 4: Carnage - Analyzing malicious network with Wireshark
+## 🕵️ Project 5: Carnage - Analyzing malicious network with Wireshark
 
 ➡️ **Read it here:** [Carnage - Analyzing malicious network with Wireshark](https://medium.com/@ismaelggm/carnage-0564a12735c7)
 
@@ -139,7 +167,7 @@ Assessed the findings from a defender’s perspective to determine malicious int
 **Tools & Tech:** : TryHackMe, Wireshark, Virtual Machine, VirusTotal, , Windows forensic artifacts, CyberChef
 
 
-## 🐾 Project 5: SOC127 — SQL Injection Detected (LetsDefend)
+## 🐾 Project 6: SOC127 — SQL Injection Detected (LetsDefend)
 
 ➡️ **Read it here:** [SOC127 — SQL injection detected (LetsDefend) — solution & walkthrough](https://medium.com/@ismaelggm/soc127-sql-injection-detected-letsdefend-solution-d37f7eed52e9)
 
